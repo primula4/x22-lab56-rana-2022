@@ -1,0 +1,13 @@
+#map {
+    width: 100%;
+    height: 70vh;
+    
+}
+body{
+
+    background-color: rgb(204, 224, 218);
+}
+#task-submit{
+    background-color: rgb(109, 227, 130);
+    
+}
